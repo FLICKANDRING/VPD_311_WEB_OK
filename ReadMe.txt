@@ -2,10 +2,21 @@
 https://www.youtube.com/playlist?list=PLeqyOOqxeiIPJ5ms9kxlHNmKHo7H4eqvi
 https://okovtun.github.io/VPD_311_WEB/
 
+Hosting:
+https://freeasphosting.net/
+
 Install:
 https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit
 
 TODO:
+1. В проект Blazor добавить компоненты Factorial и Fibonacci;
+2. В проект Blazor добавить компоненты Dec2Bin, Dec2Hex, Bin2Dec, Hex2Dec;
+3. *Залить приложение на хостинг;
+
+DONE:
+Добить Countdown timer;
+
+DONE:
 1. Фотки должны подгружаться из любой папки на компьютере;
 2. Какждая форма должна сворачиваться и разволрачиваться по желанию пользователя;
 
